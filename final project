@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Pages Site</title>
+</head>
+<body>
+    <h1>Hello, GitHub Pages!</h1>
+    <p>This is my first GitHub Pages site.</p>
+</body>
+</html>
+
+git add .
+git commit -m "Initial commit"
+git push -u origin main  # Use 'main' or 'master' based on your repository's default branch
